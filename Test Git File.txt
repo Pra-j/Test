@@ -1,0 +1,4 @@
+Learning GIT.
+git clone repo URL
+git add
+git commit -
